@@ -1,3 +1,3 @@
 # python_lab
-This is my first Git Repository (Python)
+This is my first Git Repository. (Python)
 Author - Kajal Pandey
